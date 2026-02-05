@@ -1,0 +1,10 @@
+/* Editorial Luxury Typography System */
+
+/* Display - For main titles and hero text */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;600;700&display=swap');
+
+/* Body - For readable content and descriptions */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap');
+
+/* Accent - For CTAs and special highlights */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&display=swap');
